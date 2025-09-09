@@ -17,10 +17,18 @@ interests:
 inspiration: building fun, creative helpers (even for my kid!)
 
 Featured Projects
-Project	Description
-FootballNotifier	AI-powered web crawler that scrapes match schedules and delivers timely notifications via email or preferred channels (Telegram, Slack), fully automated using GitHub Actions.
-CarBrandApp	A local interactive app for my son to practice naming car brands using OpenAI Whisper voice recognition—simple, playful, and proof that personal projects can be meaningful.
-AutoCoder	A GitHub Action that automates code generation from issue descriptions using ChatGPT and opens PRs—streamlining developer workflows and creativity.
+
+FootballNotifier
+AI-powered web crawler that scrapes match schedules and delivers timely notifications via email or preferred channels (Telegram, Slack),
+fully automated using GitHub Actions.
+
+CarBrandApp
+A local interactive app for my son to practice naming car brands using OpenAI Whisper voice recognition—simple,
+playful, and proof that personal projects can be meaningful.
+
+AutoCoder
+A GitHub Action that automates code generation from issue descriptions using ChatGPT
+and opens PRs—streamlining developer workflows and creativity.
 
 Fun Fact
 
