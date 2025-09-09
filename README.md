@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%2C+I'm+Alyona!&animation=fadeIn&color=gradient&height=120" alt="header"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyonaKlekovkina&show_icons=true&theme=radical" alt="Alyona's GitHub Stats" />
-</p>
+[![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyonaKlekovkina&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
