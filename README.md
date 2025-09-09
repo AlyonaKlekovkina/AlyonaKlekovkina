@@ -1,33 +1,11 @@
-## Hi there 👋
+# 💫 About Me:
+ I'm currently solving algorithmic problems on LeetCode<br>Looking to a starting position as a Python software developer<br>Enjoy the feeling you get after solving a problem<br>Attentive to small details, like taking a lot for different pieces and building it to a big beautiful picture<br>
 
-##  About Me
 
-```yaml
-name: Alyona Klekovkina
-role: Junior Python Developer
-based_in: Central Serbia, Serbia
-interests:
-  - Python web & data projects
-  - AI-powered tools
-  - Learning by building
-inspiration: building fun, creative helpers (even for my kid!)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyonaKlekovkina&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Featured Projects
-
-FootballNotifier
-AI-powered web crawler that scrapes match schedules and delivers timely notifications via email or preferred channels (Telegram, Slack),
-fully automated using GitHub Actions.
-
-CarBrandApp
-A local interactive app for my son to practice naming car brands using OpenAI Whisper voice recognition—simple,
-playful, and proof that personal projects can be meaningful.
-
-AutoCoder
-A GitHub Action that automates code generation from issue descriptions using ChatGPT
-and opens PRs—streamlining developer workflows and creativity.
-
-Fun Fact
-
-I believe the best tool is one that solves problems and brings joy. Whether it's teaching, coding, or innovating—I'm in it with passion.
-
-Thanks for stopping by—feel free to explore, collaborate, or just say hello! 😊
+---
+[![](https://visitcount.itsvg.in/api?id=AlyonaKlekovkina&icon=0&color=0)](https://visitcount.itsvg.in)
