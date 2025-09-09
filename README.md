@@ -1,6 +1,8 @@
 # 💫 About Me:
 Solving algorithmic challenges on LeetCode | Aspiring Python developer
+
 Passionate about problem-solving and writing clean, efficient code
+
 Detail-oriented: I enjoy turning small pieces into well-crafted, working solutions
 
 
