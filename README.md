@@ -1,5 +1,7 @@
 # 💫 About Me:
- I'm currently solving algorithmic problems on LeetCode<br>Looking to a starting position as a Python software developer<br>Enjoy the feeling you get after solving a problem<br>Attentive to small details, like taking a lot for different pieces and building it to a big beautiful picture<br>
+Solving algorithmic challenges on LeetCode | Aspiring Python developer
+Passionate about problem-solving and writing clean, efficient code
+Detail-oriented: I enjoy turning small pieces into well-crafted, working solutions
 
 
 # 💻 Tech Stack:
